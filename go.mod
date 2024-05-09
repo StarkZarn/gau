@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/bobesa/go-domain-util v0.0.0-20190911083921-4033b5f7dd89
-	github.com/deckarep/golang-set/v2 v2.3.0
+	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/json-iterator/go v1.1.12
 	github.com/lynxsecurity/pflag v1.1.3
 	github.com/lynxsecurity/viper v1.10.0
