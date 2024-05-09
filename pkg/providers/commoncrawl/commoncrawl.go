@@ -8,8 +8,8 @@ import (
 	"fmt"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/lc/gau/v2/pkg/httpclient"
-	"github.com/lc/gau/v2/pkg/providers"
+	"github.com/starkzarn/gau/v2/pkg/httpclient"
+	"github.com/starkzarn/gau/v2/pkg/providers"
 	"github.com/sirupsen/logrus"
 )
 
